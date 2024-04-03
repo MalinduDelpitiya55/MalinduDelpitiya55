@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [Weather App](https://malindudelpitiya55.github.io/WEATHER-app/#city-forecast)
-- 👯 I’m looking to collaborate on **Vehicle Management System**
+- 👯 I’m looking to collaborate on **Online Job Management System**
 - 💬 Ask me about **JAVA, HTML, CSS, Js, PHP**
 - 🌱 I’m currently learning Node js, express js, kotlin , Mongo db
 - 📫 How to reach me **malindudelpitiya55@gmail.com**
